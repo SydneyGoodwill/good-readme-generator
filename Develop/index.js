@@ -3,9 +3,23 @@ const questions = [
 
 ];
 
+var fs = require("fs");
+
+var generateMd = require("./utils/generateMarkdown.js");
+console.log(generateMd);
+
 // function to write README file
-function writeToFile(fileName, data) {
-}
+fs.appendFile("README.md", process.argv[2] + '\n', function(err) {
+    if (err) {
+        return console.log(err);
+    }
+    else {
+        console.log("wrote to README");
+    }
+});
+
+//function writeToFile(fileName, data) {
+//}
 
 // function to initialize program
 function init() {

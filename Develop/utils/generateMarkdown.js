@@ -5,4 +5,6 @@ function generateMarkdown(data) {
 `;
 }
 
+var pie = "apple";
+
 module.exports = generateMarkdown;
