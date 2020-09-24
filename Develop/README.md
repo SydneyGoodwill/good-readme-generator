@@ -1,10 +1,12 @@
 undefined
   
+  [![License: GNU GPLv3](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+
   ## Title
-  This is a test Project
+  Game Show
 
   ## Description
-  This project is meant for me to see if my README generator looks ok online
+  An app that asks the user triva questions
 
   ## Table of Contents
   * [Installation](#install)
@@ -16,23 +18,23 @@ undefined
   * [Author](#author)
   
   ## Installation
-  It is installed online
+  you must download this repo to use this app
 
   ## Usage
-  You enter input so that a README is genrerated
+  by answering questions
 
   ## Contributors
-  Me, SYd
+  Sydney G
 
   ## Test
-  none, just trial and error
+  nonononat alllll
 
   ## Questions
-  sydney@myeail.com
+  ljljljlj@asdlfj
 
   ## License
-  Apache 2.0
+  GNU GPLv3
 
   ## Author
-  Sydthekyd 
+  meememe 
 

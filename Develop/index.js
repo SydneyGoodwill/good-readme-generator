@@ -57,7 +57,6 @@ const questions = [
 // function to write README file
 fs.writeFile("README.md", questions.response, "utf8", (error) => {
     if (error) throw error;
-    console.log("Data appended to file!");
 
 });
 
