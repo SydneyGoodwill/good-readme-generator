@@ -1,12 +1,11 @@
-undefined
-  
-  [![License: GNU GPLv3](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  ## License
+  [![License: MIT](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   ## Title
-  Game Show
+  Sample Project
 
   ## Description
-  An app that asks the user triva questions
+  This is a sample description for the project.
 
   ## Table of Contents
   * [Installation](#install)
@@ -18,23 +17,20 @@ undefined
   * [Author](#author)
   
   ## Installation
-  you must download this repo to use this app
+  In order to generate your own README files, you will have to clone this repo, or copy its code. Once it is on your machine, you will be able to enter a Node environment where you can generate your own README, by running the command "node index.js"
 
   ## Usage
-  by answering questions
+  Using Node, the user answers questions about their application that will then be written to a newly-generated README file.
 
   ## Contributors
-  Sydney G
+  Sydney Goodwill
 
   ## Test
-  nonononat alllll
+  Trial and error.
 
   ## Questions
-  ljljljlj@asdlfj
-
-  ## License
-  GNU GPLv3
+  sydneygoodwill@myemail.com
 
   ## Author
-  meememe 
+  Sydney Goodwill 
 
