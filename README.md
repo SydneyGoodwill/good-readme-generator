@@ -16,4 +16,4 @@ This app is ran in a Node Environment. You will either need to clone this reposi
 
 The following video demonstrates the functionality of the application:
 
-![README Generator](<iframe src="https://drive.google.com/file/d/1nFrhhoPdr3iy7-yeZU3NiAXufDaBirLa/preview" width="640" height="480"></iframe>)
+https://drive.google.com/file/d/1nFrhhoPdr3iy7-yeZU3NiAXufDaBirLa/preview
